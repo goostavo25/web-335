@@ -1,0 +1,39 @@
+[
+  {
+    "firstName": "Homer",
+    "lastName": "Simpson",
+    "birthdate": {
+      "day": "12",
+      "month": "05",
+      "year": "1956"
+    },
+    "roles": [
+      {
+        "id": "001",
+        "text": "Safety Inspector"
+      },
+      {
+        "id": "002",
+        "text": "Astronaut"
+      },
+      {
+        "id": "003",
+        "text": "Krusty Impersonator "
+      }
+    ],
+    "dependents": [
+      {
+        "firstName": "Bart",
+        "lastName": "Simpson"
+      },
+      {
+        "firstName": "Lisa",
+        "lastName": "Simpson"
+      },
+      {
+        "firstName": "Maggie",
+        "lastName": "Simpson"
+      }
+    ]
+  }
+]
