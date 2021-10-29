@@ -1,0 +1,55 @@
+[
+  {
+    "_id": 1001,
+    "first_name": "Homer",
+    "lastName": "Simpson",
+    "date_of_birth": "05/12/1956",
+    "user_name": "hsimpson",
+    "invoices": [
+      {
+        "_id": 110,
+        "date_created": "10/20/2021",
+        "date_shipped": "10/20/2021",
+        "subtotal": "$42.00",
+        "tax": "$2.94",
+        "total": "$44.94",
+        "line-item": [
+          {
+            "_id": 125,
+            "name": "Beer",
+            "price": "$5.00",
+            "quantity": 6
+          },
+          {
+            "_id": 235,
+            "name": "Donut",
+            "price": "$1.00",
+            "quantity": 12
+          }
+        ]
+      },
+      {
+        "_id": 220,
+        "date_created": "10/21/2021",
+        "date_shipped": "10/22/2021",
+        "subtotal": "$70.00",
+        "tax": "$4.90",
+        "total": "$74.90",
+        "line-item": [
+          {
+            "_id": 335,
+            "name": "Pacifier",
+            "price": "$10.00",
+            "quantity": 3
+          },
+          {
+            "_id": 445,
+            "name": "Diapers",
+            "price": "$20.00",
+            "quantity": 2
+          }
+        ]
+      }
+    ]
+  }
+]
