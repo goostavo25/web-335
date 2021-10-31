@@ -1,0 +1,44 @@
+{
+  "_id": "WEB335",
+  "name": "Introduction to NoSQL",
+  "enroll": [
+    {
+      "_id": 110,
+      "grade": "3.00",
+      "student": [
+        {
+          "_id": "221",
+          "first_name": "Gustavo",
+          "last_name": "Roo_Gonzalez",
+          "mi": "A",
+          "classes": [
+            {
+              "_id": "WEB335",
+              "name": "Introduction to NoSQL"
+            },
+            {
+              "_id": "WEB420",
+              "name": "RESTful APIs"
+            }
+          ]
+        },
+        {
+          "_id": "222",
+          "first_name": "John",
+          "last_name": "Doe",
+          "mi": "B",
+          "classes": [
+            {
+              "_id": "WEB335",
+              "name": "Introduction to NoSQL"
+            },
+            {
+              "_id": "WEB330",
+              "name": "Enterprise JavaScript II"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
