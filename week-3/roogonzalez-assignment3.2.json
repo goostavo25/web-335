@@ -1,5 +1,6 @@
 {
   "user": {
+    "userID": "54321",
     "firstName": "Homer",
     "lastName": "Simpson",
     "birthdate": {
@@ -9,17 +10,17 @@
     },
     "roles": [
       {
-        "id": "001",
+        "roleID": "001",
         "title": "Safety Inspector",
         "permissions": [{ "admin": true }, { "edit": true }, { "billing": true }, { "management": true }, { "view": true }]
       },
       {
-        "id": "002",
+        "roleID": "002",
         "title": "Astronaut",
         "permissions": [{ "admin": true }, { "edit": false }, { "billing": false }, { "management": true }, { "view": true }]
       },
       {
-        "id": "003",
+        "roleID": "003",
         "title": "Krusty Impersonator ",
         "permissions": [{ "admin": false }, { "edit": false }, { "billing": false }, { "management": false }, { "view": true }]
       }
