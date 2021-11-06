@@ -1,0 +1,28 @@
+{
+  "user": {
+    "firstName": "Homer",
+    "lastName": "Simpson",
+    "birthdate": {
+      "day": "12",
+      "month": "05",
+      "year": "1956"
+    },
+    "roles": [
+      {
+        "id": "001",
+        "title": "Safety Inspector",
+        "permissions": [{ "admin": true }, { "edit": true }, { "billing": true }, { "management": true }, { "view": true }]
+      },
+      {
+        "id": "002",
+        "title": "Astronaut",
+        "permissions": [{ "admin": true }, { "edit": false }, { "billing": false }, { "management": true }, { "view": true }]
+      },
+      {
+        "id": "003",
+        "title": "Krusty Impersonator ",
+        "permissions": [{ "admin": false }, { "edit": false }, { "billing": false }, { "management": false }, { "view": true }]
+      }
+    ]
+  }
+}
