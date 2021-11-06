@@ -1,0 +1,50 @@
+{
+  "publisher_name": "O'Reilly",
+  "publisher_code": "55999",
+  "publisher_address": {
+    "street": "1005 Gravestein Highway North",
+    "city": "Sebastopol",
+    "state": "CA",
+    "zip_code": 95472
+  },
+  "books": [
+    {
+      "book_isbn": 9781491954461,
+      "book_name": "MongoDB The Definitive Guide",
+      "book_price": 59.99,
+      "author": [
+        {
+          "author_first_name": "Shannon",
+          "author_last_name": "Bradshaw",
+          "author_phone": "800-998-9938",
+          "author_email": "sbradshaw@email.com"
+        },
+        {
+          "author_first_name": "Eoin",
+          "author_last_name": "Brazil",
+          "author_phone": "800-998-9939",
+          "author_email": "ebrazil@email.com"
+        },
+        {
+          "author_first_name": "Kristina",
+          "author_last_name": "Chodorow",
+          "author_phone": "800-998-9940",
+          "author_email": "kchodorow@email.com"
+        }
+      ]
+    },
+    {
+      "book_isbn": 9781491952023,
+      "book_name": "JavasCript: The Definitive Guide",
+      "book_price": 69.99,
+      "author": [
+        {
+          "author_first_name": "David",
+          "author_last_name": "Flanagan",
+          "author_phone": "800-998-9941",
+          "author_email": "dflanagan@email.com"
+        }
+      ]
+    }
+  ]
+}
